@@ -1,13 +1,5 @@
-# PatternRecognition
-Slides for the course
+# Pattern Recognition course
 
-* First lecture: feature selection, Linear Discriminant Analysis `featureselection.pdf`
-* Second lecture: PCA, Kernel PCA and Laplacian eigenmaps `PCAandKPCA.pdf` and `graphLaplacianEigenmaps.pdf`
-
-Example of self-supervised learning (see first lecture):
-
-[https://ai.googleblog.com/2021/09/discovering-anomalous-data-with-self.html](https://ai.googleblog.com/2021/09/discovering-anomalous-data-with-self.html)
-
-
+You will find here some material for the course. Some of the slides can be found in the folder `slides`. Some tutorials and code is available in the `code` folder.
 
 Work in progress...
