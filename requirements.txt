@@ -1,3 +1,5 @@
 numpy
 matplotlib
 sklearn
+tensorflow
+tensorflow_hub
